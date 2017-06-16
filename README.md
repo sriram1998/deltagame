@@ -1,0 +1,2 @@
+# deltagame
+primitive game
